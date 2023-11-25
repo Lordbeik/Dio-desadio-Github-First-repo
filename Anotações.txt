@@ -1,0 +1,12 @@
+link de download do Git: https://git-scm.com/downloads
+É utilizado o terminal extendido(Git bash) na otimização do uso do Git.
+
+git init - comando criar um novo repositório 
+
+git status - verificar status do repositório
+
+git clone - usado pra clonar os arquivos para pasta local
+
+git add - comando para adicionar ("-A", "." e outros) 
+ 
+git rm - comando para remover ( também tem outros métodos de uso)
